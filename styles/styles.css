@@ -171,8 +171,9 @@ section {
   color: white;
 }
 .section-about {
-  background: rgb(56, 176, 98);
-  background: linear-gradient(144deg, rgb(56, 176, 98) 70%, rgb(118, 197, 103) );
+  background-color:#1e1e1e;
+  /*background: rgb(56, 176, 98);
+  background: linear-gradient(144deg, rgb(56, 176, 98) 70%, rgb(118, 197, 103) );*/
 }
 
 ::selection {
@@ -200,8 +201,9 @@ section {
 }
 
 .section-contact {
-  background: rgb(56, 176, 98);
-  background: linear-gradient(144deg, rgb(56, 176, 98) 70%, rgb(118, 197, 103) );
+  background-color:#1e1e1e;
+  /*background: rgb(56, 176, 98);
+  background: linear-gradient(144deg, rgb(56, 176, 98) 70%, rgb(118, 197, 103) );*/
   color: white;
   display: flex;
   justify-content: center;
