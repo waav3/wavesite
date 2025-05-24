@@ -188,12 +188,12 @@ section {
   width: 150px;
   height: auto;
   padding: 20px;
-  border: 5px solid black;
+  /*border: 5px solid black; */
   border-radius: 100px;
   transition: all 1s ease-in-out;
 }
 .section-education img:hover {
-  transform: rotate(90deg) scale(1);
+  transform: rotate(20deg) scale(1);
 }
 .school {
   font-weight: 300;
