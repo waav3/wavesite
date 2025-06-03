@@ -89,21 +89,12 @@ main {
   transition: all 0.5s ease;
 }
 
-/*.name {
- background-color: var(--green);
- color: white;
- padding: 50px 150px;
- line-height: 50px;
- font-family: var(--title);
- font-size: 30px;
- height: 15%;
-}*/
-
 .hero-title {
   font-size: 56px;
   font-family: "Alfa Slab One", Roboto;
   font-weight: 300;
   height: auto;
+  width: 650px;
 }
 
 .hero-image {
