@@ -183,9 +183,9 @@ section {
   margin-bottom: 20px;
 }
 .button:hover {
-  background: #1f1f1f;
-  color: #80f2e7;
-  cusrsor: pointer;
+  cursor: pointer;
+  background-color: #385963;
+  color: white;
 }
 
 ::selection {
